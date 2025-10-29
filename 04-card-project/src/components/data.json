@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "company": "Amazon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "posted": "5 days ago",
+    "title": "Amazon Prime Video",
+    "tags": ["Part Time", "Senior Level"],
+    "salary": "$120/hr",
+    "location": "Mumbai, India"
+  },
+  {
+    "id": 2,
+    "company": "Google",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    "posted": "2 days ago",
+    "title": "Frontend Developer",
+    "tags": ["Full Time", "Mid Level"],
+    "salary": "$95/hr",
+    "location": "Bangalore, India"
+  },
+  {
+    "id": 3,
+    "company": "Microsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "posted": "1 week ago",
+    "title": "Cloud Engineer",
+    "tags": ["Remote", "Senior Level"],
+    "salary": "$130/hr",
+    "location": "Hyderabad, India"
+  },
+  {
+    "id": 4,
+    "company": "Netflix",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "posted": "3 days ago",
+    "title": "UI/UX Designer",
+    "tags": ["Contract", "Creative"],
+    "salary": "$100/hr",
+    "location": "Los Angeles, USA"
+  },
+  {
+    "id": 5,
+    "company": "Tesla",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+    "posted": "Today",
+    "title": "Software Engineer",
+    "tags": ["Full Time", "Junior Level"],
+    "salary": "$110/hr",
+    "location": "Austin, USA"
+  },
+  {
+    "id": 6,
+    "company": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg",
+    "posted": "2 days ago",
+    "title": "Backend Developer",
+    "tags": ["Part Time", "Mid Level"],
+    "salary": "$115/hr",
+    "location": "San Francisco, USA"
+  },
+  {
+    "id": 7,
+    "company": "Facebook",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg",
+    "posted": "1 week ago",
+    "title": "Frontend Developer",
+    "tags": ["Contract", "Junior Level"],
+    "salary": "$90/hr",
+    "location": "Seattle, USA"
+  },
+  {
+    "id": 8,
+    "company": "Meta",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/800px-Meta_Platforms_Inc._logo.svg.png",
+    "posted": "2 days ago",
+    "title": "Product Manager",
+    "tags": ["Full Time", "Senior Level"],
+    "salary": "$125/hr",
+    "location": "New York, USA"
+  }
+]
