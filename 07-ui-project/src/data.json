@@ -1,0 +1,26 @@
+[
+  {
+    "number": "1",
+    "title": "Prime customers who have access to bank credit and are satisfied with the current product",
+    "description": "These customers are loyal and happy with their existing banking experience.",
+    "label": "Satisfied",
+    "color": "blue",
+    "bgImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "number": "2",
+    "title": "Prime customers who have access to bank credit but are not satisfied with the current service",
+    "description": "These customers are underserved and could be open to switching banks.",
+    "label": "Underserved",
+    "color": "purple",
+    "bgImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "number": "3",
+    "title": "Customers from near-prime and sub-prime segments with no access to bank credit",
+    "description": "These customers are underbanked and need better financial inclusion opportunities.",
+    "label": "Underbanked",
+    "color": "green",
+    "bgImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
